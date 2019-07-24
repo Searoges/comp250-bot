@@ -1,5 +1,5 @@
 /**
- *  @author Connor Seán Rodgers
+ *  @author Connor Sean Rodgers
  */
 package bot;
 /**
